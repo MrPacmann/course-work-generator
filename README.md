@@ -97,7 +97,8 @@ course-work-generator/
 
 ## 📸 Скриншоты
 
-*(здесь можно добавить скриншоты программы позже)*
+<img width="1196" height="797" alt="Снимок экрана 2026-03-02 в 22 49 22" src="https://github.com/user-attachments/assets/d2005094-c5c4-4c8c-ace3-fdea0d2467b3" />
+
 
 ## 📄 Лицензия
 
